@@ -1,7 +1,7 @@
 # requirements.txt
 Flask==2.3.3
 tensorflow==2.15.0
-Pillar==10.0.1
+Pillow==10.0.1
 pytesseract==0.3.10
 pymongo==4.6.1
 numpy==1.24.3
